@@ -1,0 +1,10 @@
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\bin\Debug\EasyQuery.exe.config
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\bin\Debug\EasyQuery.exe
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\bin\Debug\EasyQuery.pdb
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\bin\Debug\EasyQuery.xml
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\obj\Debug\EasyQuery.Form1.resources
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\obj\Debug\EasyQuery.Resources.resources
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\obj\Debug\EasyQuery.vbproj.GenerateResource.Cache
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\obj\Debug\EasyQuery.exe
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\obj\Debug\EasyQuery.xml
+\\DATA-CENTER\Informatique\BPayan\Projets\EasyQuery\EasyQuery\obj\Debug\EasyQuery.pdb
